@@ -35,8 +35,6 @@ namespace Course
             {
                 Console.WriteLine("Withdraw error: " + e.Message);
             }
-
-
         }
     }
 }
